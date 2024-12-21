@@ -1,9 +1,13 @@
+import Inputs from "./components/inputs"
+import TopButtons from "./components/topButtons"
+
 
 
 const App = () => {
   return (
-    <div>
-      <h1 className="text-7xl font-bold text-red-400 text-red-300"> Hello </h1>
+    <div className="mx-auto max-w-screen-lg mt-4 py-5 px-32 bg-gradient-to-br shadow-xl shadow-gray-400 from-cyan-600 to-blue-300">
+      <TopButtons></TopButtons>
+      <Inputs></Inputs>
     </div>
   )
 }
