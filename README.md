@@ -18,8 +18,8 @@ The app uses the OpenWeather API to fetch both weather information and images di
 
 ### Running the app:
 To open the app, use the terminal command:
-***npm run dev***
-Run this command in either an integrated terminal or a separate terminal window.
+***npm run dev***.
+Run this command in either an integrated terminal within the src folder. 
 
 
 
