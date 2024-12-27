@@ -1,3 +1,29 @@
+# Welcome to My Weather App
+
+**The app was built using:**
+- JavaScript
+- JSX (JavaScript XML)
+- React
+- CSS (via Tailwind CSS)
+- Prop-Types (JavaScript Library)
+
+The app uses the OpenWeather API to fetch both weather information and images displayed throughout the page.
+
+### Features:
+- View the **daily forecast**
+- View a **three-hour step forecast**
+- Check **temperature**, **wind speed**, **humidity**, **sunrise**, and **sunset times**
+- Search for a **specific city** or **track your current location**
+- Choose between viewing the temperature in **Celsius** or **Fahrenheit**
+
+### Running the app:
+To open the app, use the terminal command:
+
+Run this command in either an integrated terminal or a separate terminal window.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
